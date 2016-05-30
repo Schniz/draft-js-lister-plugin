@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prepublish": "babel --out-dir lib src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
