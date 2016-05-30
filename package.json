@@ -2,7 +2,7 @@
   "name": "draft-js-lister-plugin",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "prepublish": "babel --out-dir lib src",
     "test": "echo \"Error: no test specified\" && exit 1"
